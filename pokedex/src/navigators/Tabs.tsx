@@ -4,7 +4,6 @@ import { NavigationStack } from './NavigationStack';
 import { Platform, Text } from 'react-native';
 import { NavigationStackSearch } from './NavigationStackSearch';
 
-
 const Tab = createBottomTabNavigator();
 
 export const Tabs = () => {
