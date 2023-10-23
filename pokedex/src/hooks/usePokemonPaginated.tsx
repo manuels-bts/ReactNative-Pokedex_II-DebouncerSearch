@@ -42,7 +42,7 @@ export const usePokemonPaginated = () => {
     }
 
     useEffect(() => {
-        // loadPokemon()
+        loadPokemon()
     }, [])
 
     return {
